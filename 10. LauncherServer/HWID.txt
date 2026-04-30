@@ -1,0 +1,3 @@
+// HWID Ban List - Format: "HWID" "Timestamp" "Duration"
+// Use PERMANENT for permanent bans
+

@@ -1,0 +1,2 @@
+// Hack List - Format: "MD5Hash" "Filename"
+// "0f442b2f58a8078b389b21a1c1d6863c" "chrome"

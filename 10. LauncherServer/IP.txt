@@ -1,0 +1,3 @@
+// IP Ban List - Format: "IP" "Timestamp" "Duration"
+// Use PERMANENT for permanent bans
+
