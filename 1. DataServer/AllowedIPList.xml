@@ -1,0 +1,23 @@
+<!--
+// ====================================================================
+// == X9 MUONLINE SERVER EMULATOR
+// == www.muemu.tech
+// ==  (C) 2026 | MUEMU (R) 
+// ==  MUEMU.TECH DEV SOCIAL - DISCORD: MUEMU#4527 - TEAMS: MUEMU.PL
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of MUEMU MuOnline Server files.
+// ====================================================================
+//
+// ### AllowedIPList::IP ###
+//	Address: IP address to allow
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//~~ IPs allowed to connect to Data Server
+//~~ Do not change if entire server is located on Local Machine
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+
+<AllowedIPList>
+	<IP Address="127.0.0.1" />
+</AllowedIPList>
